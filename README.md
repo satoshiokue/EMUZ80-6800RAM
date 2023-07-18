@@ -95,7 +95,7 @@ OK
 Mikbugの変数は0xA000から0xE200へ移動しました。Gコマンドを使用する際は0xE248,0xE249へアドレスを設定してください。  
 Mikbug 2.0のワークエリアはオリジナルの0xA000-です。  
 
-Universal Monitor
+Universal Monitor  
 https://electrelic.com/electrelic/node/1317
 
 ## 6809プログラムの格納
