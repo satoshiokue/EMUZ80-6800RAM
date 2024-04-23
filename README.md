@@ -98,7 +98,7 @@ Mikbug 2.0のワークエリアはオリジナルの0xA000-です。
 Universal Monitor  
 https://electrelic.com/electrelic/node/1317
 
-## 6809プログラムの格納
+## 6800プログラムの格納
 インテルHEXデータを配列データ化して配列rom[]に格納すると0xE000に転送され6800で実行できます。
 
 ## 参考）EMUZ80
